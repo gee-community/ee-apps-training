@@ -1,3 +1,10 @@
+// Copyright 2024 Google LLC
+
+/*
+ * This script demonstrates the use of Javascript prototypes
+ *
+ */
+
 function Person(name, surname, location) {
   this.name = name
   this.surname = surname
@@ -15,6 +22,3 @@ var p2 = new Person('Donald', 'Duck')
   
 print(p1.getFullName())
 print(p2.getFullName())
-  
- 
- 
