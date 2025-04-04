@@ -2,7 +2,7 @@
 
 Earth Engine Apps training based on in-person sessions at the Geo for Good 2024 mini-summits.
 
-Copies of the code scripts found in this repository can be opened directly in the Earth Engine Code Editor by clicking the links below.
+Copies of the code scripts found in this repository can be opened directly in the [Earth Engine Code Editor](https://developers.google.com/earth-engine/guides/quickstart_javascript) by clicking the links below.
 
 | Description | Code Editor Link |
 |--------|-------------|
