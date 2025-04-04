@@ -1,6 +1,6 @@
-# Earth Engine Apps Training 2024
+# Earth Engine Apps Training
 
-Earth Engine Apps training based on in-person sessions at the Geo for Good 2024 mini-summits.
+Earth Engine Apps training based on in-person sessions at the Geo for Good 2024 mini-summits in [São Paulo, Brazil](https://earthoutreachonair.withgoogle.com/events/geoforgood24-saopaulo) and [Dublin, Ireland](https://earthoutreachonair.withgoogle.com/events/geoforgood24-dublin).
 
 Copies of the code scripts found in this repository can be opened directly in the [Earth Engine Code Editor](https://developers.google.com/earth-engine/guides/quickstart_javascript) by clicking the links below.
 
