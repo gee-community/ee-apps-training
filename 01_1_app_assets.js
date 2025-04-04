@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /**
- * STEP 1, Code to visualize our App map layers.
+ * STEP 1: Visualize our App map layers
  * 
  * @author Gennadii Donchyts (dgena@google.com)
  * @author Tyler Erickson (tyler@vorgeo.com)

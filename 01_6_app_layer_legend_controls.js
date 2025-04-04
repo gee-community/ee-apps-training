@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /**
- * STEP 6: Building layer legend controls based on layer type
+ * STEP 6: Build layer legend controls
  * 
  * @author Gennadii Donchyts (dgena@google.com)
  * @author Tyler Erickson (tyler@vorgeo.com)

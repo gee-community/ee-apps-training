@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /**
- * STEP 2, Layout of the App and build the App UI
+ * STEP 2: Layout the App and build the App UI
  * 
  * @author Gennadii Donchyts (dgena@google.com)
  * @author Tyler Erickson (tyler@vorgeo.com)

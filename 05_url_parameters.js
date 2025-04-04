@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /**
- * Demonstrate URL parameter updates.
+ * Demonstrate URL parameter updates
  * 
  * @author Gennadii Donchyts (dgena@google.com)
  * @author Tyler Erickson (tyler@vorgeo.com)

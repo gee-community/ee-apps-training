@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /*
- * This script demonstrates the throttling of widgets
+ * Demonstrate widget event throttling
  */
 
 Map.setOptions('TERRAIN');

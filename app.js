@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /**
- * The final app.
+ * The final app
  *
  * @author Gennadii Donchyts (dgena@google.com)
  * @author Tyler Erickson (tyler@vorgeo.com)

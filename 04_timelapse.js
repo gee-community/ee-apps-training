@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /**
- * Visualize imagery with timelapse prototype.
+ * Visualize imagery with timelapse prototype
  * 
  * @author Gennadii Donchyts (dgena@google.com)
  * @author Tyler Erickson (tyler@vorgeo.com)

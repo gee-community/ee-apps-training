@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /*
- * This script demonstrates the use of Javascript prototypes
+ * Demonstrate Javascript prototypes
  *
  */
 

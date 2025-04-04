@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /**
- * STEP 4, Adding layer controls
+ * STEP 4: Add layer controls
  * 
  * @author Gennadii Donchyts (dgena@google.com)
  * @author Tyler Erickson (tyler@vorgeo.com)

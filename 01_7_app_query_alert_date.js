@@ -1,7 +1,7 @@
 // Copyright 2024 Google LLC
 
 /**
- * STEP 7: Building layer info on map click
+ * STEP 7: Display layer info on map click
  * 
  * Mention:
  *   1. Inform user on what's going on in case of any long-running actions
